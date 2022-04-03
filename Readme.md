@@ -1,5 +1,7 @@
 # Powershell DNS Lookup Tool Script
 
+![Alt text](https://github.com/GiuffreLab/dns-lookup-tool/blob/main/Images/DNS-Lookup-Tool.png)
+
 ## What is it?
 
 This is a script written in `Powershell` that you can pouplate with your own networks information to have a quick tool that can lookup DNS entries on a `Enterprise Network` with the following options
